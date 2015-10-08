@@ -31,3 +31,18 @@
 
 <p>Lançada em 1946, Mia Gioconda é uma belíssima canção que conta a estória de amor entre uma jovem italiana e um pracinha brasileiro, na Itália, durante a participação da Força Expedicionário Brasileira na Segunda Guerra Mundial.</p><p>Cantada em português e italiano, a música é um verdadeiro documento histórico sobre a FEB,  cantada por Vicente Celestino.</p>
 <p>Em 1996, Mia Gioconda fez parte da trilha sonora da novela O Rei do Gado, exibida pela rede Globo, folhetim o qual fez uma pequena homenagem a FEB, apresentado uma belíssima versão dessa canção interpretada pela dupla Chrystian & Ralf  junto com Agnaldo Rayol, resgatando a importância histórica das façanhas dos pracinhas brasileiros durante a Segunda Guerra Mundial.</p>
+
+{
+  "OM"          : "2ª DE"
+  ,"numero"     : "14"
+  ,"titulo"     : "Canção da 2ª DE"
+  ,"autor"      : "Arlindo Souza Leme"
+  ,"tempo"      : "3min 30seg"
+  ,"tempototal" : "3min 45seg"
+  ,"temposcrpt" : "---"
+  ,"regente"    : "---"
+  ,"interprete" : "Publico"
+  ,"pdf"        : "https://onedrive.live.com/download?resid=8C5A57F1EBA9132C!6994&authkey=!AHbzg4AVKEkN9lM&ithint=file%2cpdf"
+  ,"audio"      : "https://onedrive.live.com/download?resid=8C5A57F1EBA9132C!7019&authkey=!AE_O_NQEM4uIiF0&ithint=file%2cmp3"
+  ,"script"     : ""
+}
