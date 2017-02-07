@@ -11,7 +11,7 @@
     {
       "data_sla": "Mon, 06 Feb 2017 16:14:14 GMT", 
       "id_chamado": "17013732", 
-      "priorizado": "N", 
+      "priorizado": "S", 
       "responsavel": "LIAX - Jo?o Rafael dos Santos Marcelino", 
       "status": "Aguardando Atendimento", 
       "titulo": "Exibic?o de ocorrencias de situac?o especial - cadastro de dentistas"
@@ -27,7 +27,7 @@
     {
       "data_sla": "Tue, 07 Feb 2017 11:57:11 GMT", 
       "id_chamado": "17013931", 
-      "priorizado": "N", 
+      "priorizado": "S", 
       "responsavel": "LIAX - Jo?o Rafael dos Santos Marcelino", 
       "status": "Aguardando Atendimento", 
       "titulo": "DCMSWeb-Cadastro Dentista - Banco de Indicac?es"
@@ -51,7 +51,7 @@
     {
       "data_sla": "Tue, 07 Feb 2017 17:15:00 GMT", 
       "id_chamado": "17020350", 
-      "priorizado": "N", 
+      "priorizado": "S", 
       "responsavel": "LIAX - Jo?o Rafael dos Santos Marcelino", 
       "status": "Aguardando Atendimento", 
       "titulo": "DIFERENCA DE RELATORIOS/ Login: 057112"
@@ -291,7 +291,7 @@
     {
       "data_sla": "Thu, 02 Feb 2017 15:35:59 GMT", 
       "id_chamado": "17012993", 
-      "priorizado": "N", 
+      "priorizado": "S", 
       "responsavel": "LIAX - Vanderson Neves Pimentel", 
       "status": "Em atendimento", 
       "titulo": "Envio de e-mails beneficiarios apos liberac?o de senha"
